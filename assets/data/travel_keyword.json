@@ -1,0 +1,50 @@
+[
+  {
+    "keyword": "great wall",
+    "score": 5
+  },
+  {
+    "keyword": "palace",
+    "score": 4
+  },
+  {
+    "keyword": "museum",
+    "score": 3
+  },
+  {
+    "keyword": "ancient",
+    "score": 2
+  },
+  {
+    "keyword": "temple",
+    "score": 3
+  },
+  {
+    "keyword": "lake",
+    "score": 3
+  },
+  {
+    "keyword": "garden",
+    "score": 2
+  },
+  {
+    "keyword": "mountains",
+    "score": 2
+  },
+  {
+    "keyword": "river",
+    "score": 2
+  },
+  {
+    "keyword": "silk road",
+    "score": 4
+  },
+  {
+    "keyword": "emperors",
+    "score": 2
+  },
+  {
+    "keyword": "caves",
+    "score": 3
+  }
+]

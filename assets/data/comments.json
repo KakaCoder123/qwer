@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "discoverId": 101,
+    "userId": 2,
+    "parentId": null,
+    "content": "Amazing view!",
+    "time": "2026-09-01 10:00"
+  },
+  {
+    "id": 2,
+    "discoverId": 101,
+    "userId": 1,
+    "parentId": 1,
+    "content": "Thank you!",
+    "time": "2026-09-01 10:05"
+  },
+  {
+    "id": 3,
+    "discoverId": 101,
+    "userId": 3,
+    "parentId": 2,
+    "content": "I want to go there too.",
+    "time": "2026-09-01 11:20"
+  },
+  {
+    "id": 4,
+    "discoverId": 101,
+    "userId": 4,
+    "parentId": null,
+    "content": "Which month is best?",
+    "time": "2026-09-02 09:00"
+  },
+  {
+    "id": 5,
+    "discoverId": 102,
+    "userId": 1,
+    "parentId": null,
+    "content": "So beautiful.",
+    "time": "2026-09-03 15:00"
+  }
+]

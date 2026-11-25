@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "username": "lin",
+    "email": "lin@heritage.cn",
+    "password": "123456",
+    "nickname": "Lin Mei",
+    "avatar": "avatars/lin.png",
+    "discovers": [
+      {
+        "id": 101,
+        "title": "The Great Wall at Badaling",
+        "subtitle": "Morning hike",
+        "description": "The Great Wall winds over green mountains. Walking the Great Wall at sunrise is unforgettable, and the old watchtowers tell stories of ancient China.",
+        "publishTime": "2026-09-27 20:29",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_1.jpg"
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "title": "Mogao Caves",
+        "subtitle": "Silk Road art",
+        "description": "The Mogao Caves near Dunhuang keep Buddhist murals of the Silk Road. Ancient painters decorated the caves for a thousand years.",
+        "publishTime": "2026-06-22 15:41",
+        "media": [
+          {
+            "type": "video",
+            "file": "posts/photo_9.jpg"
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "title": "Mogao Caves",
+        "subtitle": "Silk Road art",
+        "description": "The Mogao Caves near Dunhuang keep Buddhist murals of the Silk Road. Ancient painters decorated the caves for a thousand years.",
+        "publishTime": "2026-06-22 15:41",
+        "media": [
+          {
+            "type": "video",
+            "file": "posts/photo_10.jpg"
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "title": "Mogao Caves",
+        "subtitle": "Silk Road art",
+        "description": "The Mogao Caves near Dunhuang keep Buddhist murals of the Silk Road. Ancient painters decorated the caves for a thousand years.",
+        "publishTime": "2026-06-22 15:33",
+        "media": [
+          {
+            "type": "video",
+            "file": "posts/photo_11.jpg"
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "title": "Mogao Caves",
+        "subtitle": "Silk Road art",
+        "description": "The Mogao Caves near Dunhuang keep Buddhist murals of the Silk Road. Ancient painters decorated the caves for a thousand years.",
+        "publishTime": "2026-06-22 15:47",
+        "media": [
+          {
+            "type": "video",
+            "file": "posts/photo_12.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "wang",
+    "email": "wang@heritage.cn",
+    "password": "123456",
+    "nickname": "Wang Lei",
+    "avatar": "avatars/wang.png",
+    "discovers": [
+      {
+        "id": 102,
+        "title": "Forbidden City",
+        "subtitle": "Palace of emperors",
+        "description": "The Forbidden City is a huge palace museum. The red walls and golden roofs of the palace shine in the sun. Ancient emperors lived in this palace.",
+        "publishTime": "2026-09-26 17:12",
+        "media": [
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_2.jpg"
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "title": "Temple of Heaven",
+        "subtitle": "Ancient ceremonies",
+        "description": "The Temple of Heaven is where emperors prayed for good harvests. The round temple is a masterpiece of ancient architecture.",
+        "publishTime": "2026-07-10 16:04",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_13.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_14.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "zhao",
+    "email": "zhao@heritage.cn",
+    "password": "123456",
+    "nickname": "Zhao Yun",
+    "avatar": "avatars/zhao.png",
+    "discovers": [
+      {
+        "id": 103,
+        "title": "West Lake",
+        "subtitle": "Boat trip",
+        "description": "West Lake in Hangzhou is famous for its gardens and pagodas. A boat trip on the lake shows temples, bridges and willow trees.",
+        "publishTime": "2026-07-26 15:40",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_5.jpg"
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "title": "Li River",
+        "subtitle": "Karst mountains",
+        "description": "The Li River flows between karst mountains. A bamboo raft on the river is the best way to see the mountains and villages.",
+        "publishTime": "2026-06-11 11:56",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_15.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_16.jpg"
+          },
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_18.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "chen",
+    "email": "chen@heritage.cn",
+    "password": "123456",
+    "nickname": "Chen Hui",
+    "avatar": "avatars/chen.png",
+    "discovers": [
+      {
+        "id": 104,
+        "title": "Terracotta Army",
+        "subtitle": "Xi'an museum",
+        "description": "The Terracotta Army museum in Xi'an has thousands of soldiers. The museum shows ancient craftsmanship of the Qin dynasty.",
+        "publishTime": "2026-07-13 15:19",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_8.jpg"
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "title": "Potala Palace",
+        "subtitle": "Lhasa",
+        "description": "The Potala Palace stands high above Lhasa. This palace has more than a thousand rooms and a long history.",
+        "publishTime": "2026-07-10 20:29",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_19.jpg"
+          },
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_20.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "liu",
+    "email": "liu@heritage.cn",
+    "password": "123456",
+    "nickname": "Liu Yang",
+    "avatar": "avatars/liu.png",
+    "discovers": [
+      {
+        "id": 105,
+        "title": "Summer Palace",
+        "subtitle": "Imperial garden",
+        "description": "The Summer Palace is a royal garden with a lake and long corridors. The garden and the lake are beautiful in every season.",
+        "publishTime": "2026-07-12 16:51",
+        "media": [
+          {
+            "type": "image",
+            "file": "posts/photo_9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_10.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_11.jpg"
+          },
+          {
+            "type": "image",
+            "file": "posts/photo_12.jpg"
+          },
+          {
+            "type": "video",
+            "file": "posts/video_2.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
